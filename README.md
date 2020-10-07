@@ -5,6 +5,7 @@
 ### 미안해요, 춤 잘 못 춰요.
 나도 미안해요, 그럼 우린 친구가 될 수 없어요.
 
+- 제가 좋아하는 라이언 맥긴리의 13년도 GQ인터뷰 입니다.
 
 #### blog : https://velog.io/@feelslikemmmm
 #### notion : https://www.notion.so/feelslikemmmm/Feelslikemmmm-8677dedf84354f64840e7ce9a74c68b9
