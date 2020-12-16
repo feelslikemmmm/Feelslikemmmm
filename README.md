@@ -10,7 +10,7 @@
 
 
 #### blog : https://velog.io/@feelslikemmmm
-#### notion : https://www.notion.so/feelslikemmmm/Feelslikemmmm-8677dedf84354f64840e7ce9a74c68b9
+
 <!--
 **feelslikemmmm/Feelslikemmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
