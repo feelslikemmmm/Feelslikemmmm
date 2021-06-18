@@ -1,6 +1,4 @@
- 👋 TypeScript(JS) 생태계에 관심이 많은 front-end 개발자 입니다
 
-#### Link 
 - blog : https://velog.io/@feelslikemmmm <br>
 - mail : feelslikemmmm@gmail.com
 
