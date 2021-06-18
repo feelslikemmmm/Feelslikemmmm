@@ -1,7 +1,10 @@
-꾸준함을 잃지 말자는 모토를 가지고 개발하고 있습니다 :)
+🧑🏻‍💻 Frontend Engineer 🧑🏻‍💻
 
-#### blog : https://velog.io/@feelslikemmmm
+#### Link 
+- blog : https://velog.io/@feelslikemmmm <br>
+- mail : feelslikemmmm@gmail.com
 
+>꾸준함을 잃지 말자는 모토를 가지고 개발하고 있습니다 :)
 <!--
 **feelslikemmmm/Feelslikemmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
