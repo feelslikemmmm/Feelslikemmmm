@@ -1,6 +1,6 @@
 
-- blog : https://velog.io/@feelslikemmmm <br>
-- mail : feelslikemmmm@gmail.com
+- Blog : https://velog.io/@feelslikemmmm <br>
+- Email : feelslikemmmm@gmail.com
 
 >꾸준함을 잃지 말자는 모토를 가지고 개발하고 있습니다 :)
 <!--
