@@ -1,6 +1,7 @@
 
+- Email : feelslikemmmm@gmail.com <br>
 - Blog : https://medium.com/feelslikemmmm <br>
-- Email : feelslikemmmm@gmail.com
+- Portfolio : [https://feelslikemmmm.github.io/portfolio/](https://feelslikemmmm.github.io/portfolio/)
 
 >꾸준함을 잃지 말자는 모토를 가지고 개발하고 있습니다 :)
 <!--
